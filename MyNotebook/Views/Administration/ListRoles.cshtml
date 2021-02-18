@@ -1,0 +1,45 @@
+﻿@model IEnumerable<IdentityRole>
+
+@{
+    ViewData["Title"] = "List Roles";
+    Layout = "~/Views/Shared/BootstrapLayout.cshtml";
+   
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="CreateRole">Create New Role</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Role
+            </th>
+            <th>
+                RoleId
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+
+                <td>
+                    <a asp-action="EditRole" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="DeleteRole" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

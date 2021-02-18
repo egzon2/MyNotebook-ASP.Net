@@ -1,0 +1,74 @@
+﻿@model PaginatedList<MyNotebook.Models.Note>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/BootstrapLayout.cshtml";
+
+    var currentFilter = (String)Context.Request.Query["SearchString"];
+}
+
+<h2 style="text-align:center">Notes</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-default">Create New Note</a>
+</p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by name: <input type="text" name="SearchString" value="@currentFilter" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index" class="btn btn-default">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                Message
+            </th>
+            <th>
+                Operations
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Message)
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.NoteId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.NoteId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.NoteId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-SearchString="@currentFilter"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   class="btn btn-default @prevDisabled"> 
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-SearchString="@currentFilter"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   class="btn btn-default @nextDisabled">
+    Next
+</a> 

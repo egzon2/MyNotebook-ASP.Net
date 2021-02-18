@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "~/Views/Shared/BootstrapLayout.cshtml";
+
+}
+@model ApplicationUser;
+<p>@Model.Email</p>
+@if (Model.isAdmin == true)
+{
+    <p>Admin</p>
+}
+else
+{
+    <p>User</p>
+}
+<form asp-action="setAdmin" asp-route-id="@Model.Id" method="get">
+    <div class="form-actions no-color">
+        <p>
+            <select name="tick">
+                <option></option>
+                <option value="1">Admin</option>
+                <option value="0">User</option>
+            </select>
+
+            
+            <input type="submit" value="Edit" class="btn btn-default" />
+            <a asp-action="Index" asp-controller="administration">Back to Full List</a>
+        </p>
+    </div>
+</form>

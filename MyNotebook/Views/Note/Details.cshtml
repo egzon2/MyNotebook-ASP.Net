@@ -1,0 +1,46 @@
+﻿@model Note;
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/BootstrapLayout.cshtml";
+}
+
+<h2>Note Details</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                Message
+            </th>
+            <th>
+                CreatedAt
+            </th>
+            <th>
+                Operations
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.Message)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.CreatedAt)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@Model.NoteId">Edit</a>
+                    <a asp-action="Details" asp-route-id="@Model.NoteId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@Model.NoteId">Delete</a>
+                </td>
+            </tr>
+    </tbody>
+</table>

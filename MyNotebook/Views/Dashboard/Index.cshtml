@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/BootstrapLayout.cshtml";
+}
+
+<h2 style="text-align:center">Home</h2>
+
+<h3 style="text-align:center">Hello @User.Identity.Name</h3>
+<div class="center-block" style="text-align:center">
+    <img src="~/Content/AdminLTE/img/greet.png" style="width: 100px;" alt="User Image">
+</div>
+<h3 style="text-align:center">Welcome to your Notebook home</h3>
+<p style="text-align:center">Notes: @ViewBag.NoteCount | ToDo's: @ViewBag.TodoCount | Priority ToDo's: @ViewBag.PriorityCount | Reminders: @ViewBag.ReminderCount</p>
+
+<hr>
+<p style="text-align:center">Here is a Kanye quote to brighten up your day:</p>
+<h4 style="text-align:center">"@ViewData["Message"]"</h4>

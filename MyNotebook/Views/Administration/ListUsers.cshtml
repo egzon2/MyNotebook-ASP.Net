@@ -1,0 +1,87 @@
+﻿@model PaginatedList<MyNotebook.Models.ApplicationUser>
+
+@{
+    ViewData["Title"] = "Index";
+    var currentFilter = (String)Context.Request.Query["SearchString"];
+    Layout = "~/Views/Shared/BootstrapLayout.cshtml";
+
+}
+
+<h2>Users</h2>
+
+<form asp-action="ListUsers" method="get">
+    <div class="form-actions no-color">
+        Filter Admins
+        <p>
+            <select name="tick">
+                <option></option>
+                <option value="Admin">Admin</option>
+                <option value="NotAdmin">NotAdmin</option>
+            </select>
+            <input type="submit" value="Search" class="btn btn-default" />
+            <a asp-action="ListUsers">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<form asp-action="ListUsers" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by name: <input type="text" name="SearchString" value="@currentFilter" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="ListUsers">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                isAdmin
+            </th>
+            <th>
+                UserId
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isAdmin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+
+            <td>
+                <a asp-action="EditAcc" asp-route-id="@item.Id">Edit</a> |
+                
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-SearchString="@currentFilter"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-SearchString="@currentFilter"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   class="btn btn-default @nextDisabled">
+    Next
+</a> 

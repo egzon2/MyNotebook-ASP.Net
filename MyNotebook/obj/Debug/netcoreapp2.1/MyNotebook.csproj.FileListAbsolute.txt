@@ -1,0 +1,388 @@
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.deps.json
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.runtimeconfig.json
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.runtimeconfig.dev.json
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.dll
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.pdb
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.Views.dll
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.Views.pdb
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csprojAssemblyReference.cache
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorAssemblyInfo.cache
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorAssemblyInfo.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.AssemblyInfoInputs.cache
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.AssemblyInfo.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.TagHelpers.input.cache
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.TagHelpers.output.cache
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorCoreGenerate.cache
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditAcc.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Create.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Details.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Edit.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Index.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Create.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Delete.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Details.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Edit.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Index.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\BootstrapLayout.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Create.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Delete.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Details.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Edit.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Index.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorTargetAssemblyInfo.cache
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorTargetAssemblyInfo.cs
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.Views.pdb
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.dll
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.pdb
+C:\Users\lumbe\source\repos\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csproj.CopyComplete
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.deps.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.runtimeconfig.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.runtimeconfig.dev.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.dll
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.pdb
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.Views.dll
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.Views.pdb
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csprojAssemblyReference.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.AssemblyInfoInputs.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.AssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csproj.CoreCompileInputs.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorAssemblyInfo.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.TagHelpers.input.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.TagHelpers.output.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorCoreGenerate.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditAcc.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Delete.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\BootstrapLayout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Delete.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorTargetAssemblyInfo.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorTargetAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.Views.pdb
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.dll
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.pdb
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.genruntimeconfig.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csproj.CopyComplete
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.deps.json
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.runtimeconfig.json
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.runtimeconfig.dev.json
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.dll
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.pdb
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.Views.dll
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.Views.pdb
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csprojAssemblyReference.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.AssemblyInfoInputs.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.AssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csproj.CoreCompileInputs.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorAssemblyInfo.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.TagHelpers.input.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.TagHelpers.output.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorCoreGenerate.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditAcc.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Delete.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\BootstrapLayout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Delete.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorTargetAssemblyInfo.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorTargetAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.Views.pdb
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.dll
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.pdb
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.genruntimeconfig.cache
+C:\Users\Egzon Thaqi\Desktop\projekti\MyNotebook\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csproj.CopyComplete
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.deps.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.runtimeconfig.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.runtimeconfig.dev.json
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.dll
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.pdb
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.Views.dll
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\bin\Debug\netcoreapp2.1\MyNotebook.Views.pdb
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csprojAssemblyReference.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.AssemblyInfoInputs.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.AssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csproj.CoreCompileInputs.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorAssemblyInfo.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.TagHelpers.input.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.TagHelpers.output.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorCoreGenerate.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditAcc.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Note\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Delete.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Reminder\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\BootstrapLayout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Create.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Delete.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Details.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Edit.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\ToDo\Index.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorTargetAssemblyInfo.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.RazorTargetAssemblyInfo.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.Views.pdb
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.dll
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.pdb
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.genruntimeconfig.cache
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\MyNotebook.csproj.CopyComplete
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\BootstrapLayout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Egzon Thaqi\Desktop\MyNotebook-main\MyNotebook\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs

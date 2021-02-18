@@ -1,0 +1,85 @@
+﻿@model PaginatedList<MyNotebook.Models.Reminder>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/BootstrapLayout.cshtml";
+    var currentFilter = (String)Context.Request.Query["tick"];
+}
+
+<h2 style="text-align:center">Reminders</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-default">Create New Reminder</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            <select name="tick">
+                <option></option>
+                <option value="date">E para</option>
+                <option value="date_desc">E fundit</option>
+            </select>
+            <input type="submit" value="Sort" class="btn btn-default" />
+            <a asp-action="Index" class="btn btn-default">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                CreatedAt
+            </th>
+
+            <th>
+                Operations
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedAt)
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ReminderId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ReminderId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ReminderId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-tick="@currentFilter"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-tick="@currentFilter"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>
